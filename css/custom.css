@@ -4314,7 +4314,7 @@ header.main-header .header-sticky.active .navbar{
 
 	.hero-content .btn-default{
 		margin-right: 40px;
-		margin-bottom: 10px;
+		/* margin-bottom: 10px; */
 	}
 
 	.hero-content .btn-default.btn-highlighted{
